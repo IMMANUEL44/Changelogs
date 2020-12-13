@@ -1,0 +1,12 @@
+13-12-2020
+
+  EAS build
+  December patch
+  Removed live wallpapers
+  Removed all camera app (can install miui/gcam if needed) for pure pixel experience
+  Permissive (Source not ready for enforcing since its in beta)
+  Removed ar core
+  Clean flash must
+  
+  No further update will be released unless pe official is dropped or unless i decide
+  Thanks for suppport ....keep supporting.....have a great day....kthxbye
