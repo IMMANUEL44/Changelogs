@@ -22,5 +22,6 @@
 10) Moved to qti thermal
 11) Fixed some camera video stuff
 12) Optimised gps
+13) Fixed network reset issues
   
 ### Thanks for suppport ....keep supporting.....have a great day....kthxbye
