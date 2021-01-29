@@ -1,9 +1,0 @@
-10-1-2021
-
-  EAS build
-  Janaury Patch patch
-  Removed Miui  camera app (can install miui/gcam if needed from @yaa2g(telegram)) for pure pixel experience
-  Added ar core
-  Clean flash must
-  
-  Thanks for suppport ....keep supporting.....have a great day....kthxbye
