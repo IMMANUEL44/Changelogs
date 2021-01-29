@@ -1,5 +1,4 @@
-10-1-2021
-=========
+# 10-1-2021
 
   *EAS build
   *Janaury Patch patch
@@ -9,8 +8,7 @@
   
   *Thanks for suppport ....keep supporting.....have a great day....kthxbye
 
-29-1-2021
-=========
+# 29-1-2021
 
   *Moved to Westcoast superfast eas+ kernel
   *Removed Camera 2 (can install miui/gcam if needed from @yaa2g(telegram))
