@@ -17,3 +17,19 @@
 15) Disable blur by default
 
 ### Thanks for suppport ....keep supporting.....have a great day....kthxbye
+
+# 13-2-2021
+
+1)  Moved to Halcyon 3.6
+2)  Fixed Low mic volume in video recording
+3)  Fixed hotspot not able to turn off
+4)  Removed the curved edges in gboard
+5)  Added back Device Settings
+6)  Added support/fixed ok google voice activation
+7)  Updated gps related stuff
+8)  Fixed offline charging
+9)  Tuned media codecs performances a bit
+10) Many more too (Lazy to type use roms and check plox)
+11) No logs no bugs 
+
+### Thanks for suppport ....keep supporting.....have a great day....kthxbye
